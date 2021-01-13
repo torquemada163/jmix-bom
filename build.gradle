@@ -157,6 +157,7 @@ dependencies {
         api "io.jmix.ui:jmix-ui-widgets:${snapshotOr(uiVersion)}"
         api "io.jmix.ui:jmix-ui-widgets-compiled:${snapshotOr(uiVersion)}"
         api "io.jmix.ui:jmix-ui-starter:${snapshotOr(uiVersion)}"
+        api "io.jmix.ui:jmix-ui-endata:${snapshotOr(uiVersion)}"
         api "io.jmix.ui:jmix-ui-data-starter:${snapshotOr(uiVersion)}"
 
         api 'com.google.guava:guava:27.0.1-jre'
